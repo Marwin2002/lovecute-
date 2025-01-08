@@ -25,4 +25,4 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-pytgcalls
+py-tgcalls==0.9.1
